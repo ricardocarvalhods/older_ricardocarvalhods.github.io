@@ -7,7 +7,7 @@ email: ricardosc@gmail.com
 description: > # this means to ignore newlines until "url:"
   Data scientist and PhD student on privacy-preserving data mining.
 footer_text: # I don't want any
-url:  # the base hostname & protocol for your site
+url: https://ricardocarvalhods.github.io/ # the base hostname & protocol for your site
 #baseurl: / # the subpath of your site, e.g. /blog/
 last_updated: # leave blank if you don't want to display last updated
 
